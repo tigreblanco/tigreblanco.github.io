@@ -5,8 +5,20 @@ title:  Yan Blog
 SEOTitle: Yan Blog 
 description: "Hey	   	  
 
-# SNS settings      
-github_username: tigreblanco    
+# SNS settings
+RSS: false
+facebook_username:  zhou yan 
+github_username:    tigreblanco
+instagram_username:   sparrow9_  
 
 # Build settings
 # paginate: 10           
+
+# Sidebar settings
+sidebar: true  
+sidebar-about-description: "a tiny dust that exists in this hundreds of millons year's universe "
+sidebar-avatar: /img/avatar-by.jpg    
+
+# Featured Tags
+featured-tags: true  
+featured-condition-size: 1
