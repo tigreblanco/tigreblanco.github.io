@@ -1,1 +1,12 @@
 theme: jekyll-theme-time-machine
+
+# Site settings
+title:  Yan Blog     
+SEOTitle: Yan Blog 
+description: "Hey	   	  
+
+# SNS settings      
+github_username: tigreblanco    
+
+# Build settings
+# paginate: 10           
